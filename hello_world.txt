@@ -1,2 +1,0 @@
-now am in my first phase of using the odin project and am happy about it.
-I renamed my folder to Git-test and am proud to say this is my main branch.
